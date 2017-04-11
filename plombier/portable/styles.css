@@ -1,0 +1,41 @@
+.un img{
+	width: 300px;
+	width: 300px;
+position: relative;
+right: 92px;
+}
+
+.un li{
+	position: relative;
+left: 10px;
+}
+
+.deux li{
+	    position: relative;
+    right: -28px;
+}
+
+div{
+	position: relative;
+margin-right: 1280px;
+}
+
+ul{
+position: relative;
+margin-right: 1319px;
+}
+
+h1{
+	position: relative;
+left: 22px;
+margin-right: 1367px;
+}
+
+.hautgauche1 img{
+	position: relative;
+width: 300px;
+}
+
+body{
+	width: 350px;
+}
