@@ -1,0 +1,62 @@
+.logo{
+	margin-left: 58px;
+width: 214px;
+}
+
+img{
+	width: 300px;
+	margin-left: 24px;
+
+}
+
+nav{
+	border-style: solid;1px;
+	width: 370px;
+
+}
+
+section{
+border-style: solid;
+width: 370px;
+
+}
+footer{
+	border-style: solid;
+	width: 370px;
+	top: 20px;
+}
+body{
+	border-style: solid;
+	width: 370px;
+}
+div{
+	border-style: solid;
+	width: 370px;
+}
+.haut{
+	display: inline-block;
+	
+}
+h1{
+	text-align: center;
+	margin-right: 10px;
+}
+
+li{
+	margin-right: 10px;
+}
+.bas{
+	display: inline-block;
+}
+.info{
+	display: inline-block;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+.button{
+	display: inline-block;
+}
+.droite{
+	display: inline-block;
+	margin-left: 20px;
+}

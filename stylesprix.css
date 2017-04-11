@@ -1,0 +1,40 @@
+h1{
+	text-align: center;
+}
+
+p{
+	width: 500px;
+    margin-left: 53px;
+}
+
+h2{
+	margin-left: 700px;
+    color: red;
+    margin-right: 600px;
+}
+
+div{
+	margin-left: 300px;
+    margin-right: 275px;
+}
+
+h6{
+    margin-left: 1501px;
+}
+body{
+	background-color: #77ABD6;
+	background-image:url(fondpiscines.jpg);
+}
+
+section{
+    border-style: solid;
+    margin-left: 506px;
+    margin-right: 447px;
+    color: #060606;
+}
+li{
+	display: inline-block;
+}
+ul{
+	margin-left: 653px;
+}
